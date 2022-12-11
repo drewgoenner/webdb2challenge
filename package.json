@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/drewgoenner/webdb2challenge#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^3.21.1",
     "knex": "^0.19.5",
     "pg": "^7.12.1",
